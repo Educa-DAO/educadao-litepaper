@@ -1,3 +1,2 @@
-# Overview do projeto
+# Overview sobre o projeto
 
-_Essa página está em construção._
