@@ -1,6 +1,12 @@
+---
+description: >-
+  Colaborar com o ecossistema da EducaDAO é muito simples e você pode participar
+  de diversas formas.
+---
+
 # Como colaborar?
 
-Colaborar com o ecossistema da EducaDAO é muito simples e você pode participar das seguintes formas:
+## O que posso fazer?
 
 * **Estudante:** consuma conteúdos educacionais e dando seus feedbacks;
 * **Produção de conteúdo:** crie novos materiais, seja usando conteúdos já gravados por outras pessoas, ou gravados por você;
