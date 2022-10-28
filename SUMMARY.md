@@ -6,6 +6,4 @@
   * [Equipe](readme/equipe.md)
   * [Roadmap](readme/roadmap/README.md)
   * [Plataforma educacional](readme/plataforma-educacional.md)
-  * [Como colaborar?](readme/como-colaborar/README.md)
-    * [GitHub](readme/como-colaborar/github.md)
-    * [Discord](readme/como-colaborar/discord.md)
+  * [Como colaborar?](readme/como-colaborar.md)
