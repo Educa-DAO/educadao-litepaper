@@ -2,8 +2,9 @@
 
 * [EducaDAO: Documentação](README.md)
 * [O que é a Educa.DAO?](o-que-e-a-educa.dao.md)
-* [Overview sobre o projeto](overview-sobre-o-projeto.md)
-* [Equipe](equipe.md)
 * [Roadmap](roadmap.md)
-* [Plataforma educacional](plataforma-educacional.md)
 * [Como colaborar?](como-colaborar.md)
+* [Equipe](equipe.md)
+* [Em breve](em-breve/README.md)
+  * [Plataforma educacional](em-breve/plataforma-educacional.md)
+  * [Overview do projeto](em-breve/overview-do-projeto.md)

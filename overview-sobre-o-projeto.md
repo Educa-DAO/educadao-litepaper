@@ -1,2 +1,0 @@
-# Overview sobre o projeto
-
