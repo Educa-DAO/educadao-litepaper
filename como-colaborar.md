@@ -17,4 +17,9 @@ description: >-
 ## Contribua agora mesmo!
 
 1. Para começar, sinalize os seus interesse no formulário disponível em [https://forms.gle/jD5E8sx6nkbYSuDf7](https://forms.gle/jD5E8sx6nkbYSuDf7);
-2. Depois, entre na comunidade do Discord ([https://discord.com/invite/VFqEnrdvgB](https://discord.com/invite/VFqEnrdvgB)), lá você poderá conversar com a equipe do projeto e acompanhar sua evolução.
+2. Depois, entre na comunidade do Discord ([https://discord.com/invite/VFqEnrdvgB](https://discord.com/invite/VFqEnrdvgB)), lá você poderá conversar com a equipe do projeto e acompanhar sua evolução;
+3. Visite o nosso Trello e saiba o que está em andamento e o que precisa ser feito.
+
+## Acesse nosso Trello
+
+{% embed url="https://trello.com/b/l5F240XZ/task-board" %}
