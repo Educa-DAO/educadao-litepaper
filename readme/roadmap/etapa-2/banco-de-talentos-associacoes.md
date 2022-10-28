@@ -1,2 +1,0 @@
-# Banco de talentos (associações)
-
