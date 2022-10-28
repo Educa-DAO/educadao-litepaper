@@ -8,6 +8,7 @@
   * 🟩 Material de onboarding quem quiser colaborar (vídeo, formulários etc.)
   * 🟩 Documentação inicial do projeto
   * 🟦 Criação e lançamento da landing page
+  * 🟦 Mapear pessoas interessadas (que se inscreveram no formulário) e integrar à equipe
 * **Plano piloto**
   * Encontrar uma empresa parceira
   * Encontrar 1 criador/a de conteúdo
