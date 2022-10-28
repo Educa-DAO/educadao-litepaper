@@ -1,0 +1,2 @@
+# Banco de talentos (inscrições)
+
