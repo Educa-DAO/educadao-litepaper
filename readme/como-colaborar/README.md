@@ -10,5 +10,5 @@ Colaborar com o ecossistema da EducaDAO é muito simples e você pode participar
 
 ## Contribua agora mesmo!
 
-1. Para começar, sinalize os seus interesse no formulário disponível em [https://forms.gle/jD5E8sx6nkbYSuDf7](https://forms.gle/jD5E8sx6nkbYSuDf7).
+1. Para começar, sinalize os seus interesse no formulário disponível em [https://forms.gle/jD5E8sx6nkbYSuDf7](https://forms.gle/jD5E8sx6nkbYSuDf7);
 2. Depois, entre na comunidade do Discord ([https://discord.com/invite/VFqEnrdvgB](https://discord.com/invite/VFqEnrdvgB)), lá você poderá conversar com a equipe do projeto e acompanhar a evolução do projeto.
