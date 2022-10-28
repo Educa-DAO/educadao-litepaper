@@ -1,7 +1,7 @@
 # Table of contents
 
 * [EducaDAO: Documentação](README.md)
-* [O que é a Educa.DAO?](o-que-e-a-educa.dao.md)
+* [O que é a EducaDAO?](o-que-e-a-educadao.md)
 * [Roadmap](roadmap.md)
 * [Como colaborar?](como-colaborar.md)
 * [Fundadores](equipe.md)
