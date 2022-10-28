@@ -1,7 +1,7 @@
 ---
 description: >-
-  Saiba quais são os próximos passos da Educa.DAO e tenha uma visão mais clara
-  do que esperar para o futuro.
+  Saiba quais são os próximos passos da EducaDAO e tenha uma visão mais clara do
+  que esperar para o futuro.
 ---
 
 # Roadmap
@@ -17,7 +17,7 @@ description: >-
 
 ## **Plano piloto da plataforma de educação**
 
-* 🟦 Encontrar uma empresa parceira
+* 🟦 Encontrar 1 empresa parceira
 * 🟦 Encontrar 1 criador/a de conteúdo
 * 🟦 Encontrar 1 criador/a de avaliação
 * 🟦 Encontrar alunos/as que queiram fazer o curso e a avaliação, compondo o banco de talentos

@@ -1,5 +1,5 @@
 ---
-description: Saiba quem são as pessoas que fundaram a Educa.DAO.
+description: Saiba quem são as pessoas que fundaram a EducaDAO.
 ---
 
 # Fundadores
