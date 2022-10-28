@@ -1,4 +1,8 @@
-# Equipe
+---
+description: Saiba quem são as pessoas que fundaram esse projeto.
+---
+
+# Fundadores
 
 ## Paulo Salvatore (Head Educacional)
 
