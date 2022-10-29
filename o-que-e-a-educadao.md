@@ -4,9 +4,11 @@ description: >-
   ecossistema.
 ---
 
-# O que é a Educa.DAO?
+# O que é a EducaDAO?
 
-{% embed url="https://www.youtube.com/watch?v=Yfag6BvTjEg&feature=emb_logo&ab_channel=EducaDAO" %}
+{% embed url="https://www.youtube.com/watch?v=Hn6-JoCGZRc" %}
+Vídeo explicativo sobre a EducaDAO, com Paulo Salvatore
+{% endembed %}
 
 {% content-ref url="como-colaborar.md" %}
 [como-colaborar.md](como-colaborar.md)
